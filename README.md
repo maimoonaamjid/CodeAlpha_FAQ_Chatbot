@@ -209,11 +209,9 @@ Possible future enhancements include:
 
 ## 📸 Application Preview
 
-Screenshots of the working chatbot can be added here after testing:
+### FAQ Chatbot Interface
 
-```text
-[Add Screenshot Here]
-```
+![FAQ Chatbot Screenshot](chatbot-screenshot.png)
 
 ---
 
